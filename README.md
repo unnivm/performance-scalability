@@ -1,5 +1,5 @@
 
-How I Handle 1 Million Requests/Second with Java
+How I Handle 1 Million Requests/Second with Java <br>
 https://medium.com/@hianupamsinha/how-i-handle-1-million-requests-second-with-java-1e17d68f5fca
 
 Spring Boot REST API Performance: 10 Mistakes That Kill Throughput
