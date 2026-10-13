@@ -28,3 +28,6 @@ https://medium.com/data-engineer-things/databricks-introduced-a-new-database-tha
 
 Vector Databases, Explained Without the Jargon<br>
 https://medium.com/gitconnected/vector-databases-explained-without-the-jargon-f9ba7a7e9549
+
+The Data Structure That Answers “Maybe” to Save Terabytes of Memory: The Bloom Filter
+https://medium.com/@yashbatra11111/the-data-structure-that-answers-maybe-to-save-terabytes-of-memory-the-bloom-filter-68b9193aa280
