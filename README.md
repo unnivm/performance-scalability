@@ -1,4 +1,15 @@
 
+Why Did Our Database Collapse After We Migrated to Virtual Threads?<br>
+https://medium.com/codetodeploy/why-did-our-database-collapse-after-we-migrated-to-virtual-threads-79f5c195e726?sharedUserId=technomaster
+
+
+Amazon Interview Question: Design a Delayed Job Scheduler<br>
+https://medium.com/@emilyhustlenyc/amazon-interview-question-design-a-delayed-job-scheduler-a64b2db8f903?sharedUserId=technomaster
+
+
+Practical Quarkus Book <br>
+https://www.amazon.com/dp/B0H2JR9DLD
+
 How I Handle 1 Million Requests/Second with Java <br>
 https://medium.com/@hianupamsinha/how-i-handle-1-million-requests-second-with-java-1e17d68f5fca
 
@@ -30,11 +41,13 @@ Vector Databases, Explained Without the Jargon<br>
 https://medium.com/gitconnected/vector-databases-explained-without-the-jargon-f9ba7a7e9549
 
 
-Practical Quarkus Book
-https://www.amazon.com/dp/B0H2JR9DLD
-
-
-The Data Structure That Answers “Maybe” to Save Terabytes of Memory: The Bloom Filter
+The Data Structure That Answers “Maybe” to Save Terabytes of Memory: The Bloom Filter <br>
 https://medium.com/@yashbatra11111/the-data-structure-that-answers-maybe-to-save-terabytes-of-memory-the-bloom-filter-68b9193aa280
 
-https://medium.com/@yashbatra11111/the-data-structure-that-answers-maybe-to-save-terabytes-of-memory-the-bloom-filter-68b9193aa280
+
+How to quickly delete large amounts of data from a table with tens of millions of records? <br>
+https://medium.com/gitconnected/how-to-quickly-delete-large-amounts-of-data-from-a-table-with-tens-of-millions-of-records-78394a139687
+
+
+
+
